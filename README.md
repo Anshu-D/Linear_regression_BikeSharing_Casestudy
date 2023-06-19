@@ -14,9 +14,11 @@
 - A bike-sharing system is a service in which bikes are made available for shared use to individuals on a short term basis.
 - BoomBikes has recently suffered considerable dips in their revenues due to the ongoing Corona pandemic
 - The business probem that this project is trying to solve is the factors affecting the demand for these shared bikes in the American market. So that Company can prepare themselves to cater to the people's needs once the situation gets better all around and stand out from other service providers and make huge profits.
-- Dataset (day.csv) -Based on various meteorological surveys and people's styles, the service provider firm has gathered a large dataset on daily bike demands across the American market based on some factors.
+- [Dataset](day.csv) -Based on various meteorological surveys and people's styles, the service provider firm has gathered a large dataset on daily bike demands across the American market based on some factors.
 
-
+## Implementation
+Here is the [Python_Notebook](Bike_Sharing_casestudy.ipynb)
+Here is the important theoritical concepts you may need to know - [Assignment Questions](Assignment_based_Subjective_Questions.pdf)
 
 ## Conclusions
 - Demand of Bikes is impacted positively by the year, temp , winter , sep - so at this time of the year demand will be more.
@@ -36,6 +38,6 @@
 
 
 ## Contact
-Created by [@Anshu-D] - feel free to contact me!
+Created by [@Anshu-D](https://github.com/Anshu-D)- feel free to contact me!
 
 
