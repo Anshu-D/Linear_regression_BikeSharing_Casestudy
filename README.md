@@ -18,7 +18,7 @@
 
 ## Implementation
 Here is the [Python_Notebook](Bike_Sharing_casestudy.ipynb)
-Here is the important theoritical concepts you may need to know - [Assignment Questions](Assignment_based_Subjective_Questions.pdf)
+PDF for Subjective assignment question concepts- [Assignment Questions](https://github.com/Anshu-D/Linear_regression_BikeSharing_Casestudy/blob/ca79c8ebf704407db84402b6b931d452cace5ac2/Assignment-based%20Subjective%20Questions.pdf)
 
 ## Conclusions
 - Demand of Bikes is impacted positively by the year, temp , winter , sep - so at this time of the year demand will be more.
